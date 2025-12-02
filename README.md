@@ -1,16 +1,65 @@
-## Hi there 👋
+👋 Hi, I'm Gulam Hasan
+Full-Stack Developer | Java • Spring Boot • React • MySQL
 
-<!--
-**GulamHasan01/GulamHasan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building clean, scalable applications — from backend APIs to beautiful frontend experiences.
 
-Here are some ideas to get you started:
+🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Engineer (B.Tech – RCET Bhilai)
+
+💼 Web Development Intern @ VaultOfCode
+
+👨‍💻 Skilled in Java, Spring Boot, React, SQL, MongoDB,
+
+🌱 Currently learning Spring Boot REST APIs, Java EE & Android Development
+
+⚡ Fun fact: I write poetry when I’m in a romantic mood ♥
+
+🛠 Tech Stack
+Languages
+
+Java • C • C++ • Python • JavaScript • SQL 
+
+Frontend
+
+React • Next.js • Tailwind CSS • HTML5 • CSS3
+
+Backend
+
+Spring Boot  • REST APIs • JWT Auth
+
+Database
+
+MySQL • MongoDB
+
+Other
+
+Git • GitHub • Linux • Docker • Azure • Firebase
+
+🚀 Featured Projects
+🔹 SmartMail Assistant — AI Chrome Extension
+
+AI-powered email writer + sentiment analyzer
+🔗 GitHub: https://github.com/GulamHasan01/SmartMail-Assistant
+
+🔹 EduBridge — Dynamic Education Platform (Full-Stack)
+
+React + PHP backend + MySQL
+→ Multi-domain pages, add-domain generator, course enrollment, user profile page
+
+🔹 Emotion Detection System (Python + DeepFace)
+
+→ Real-time emotion prediction, Tkinter GUI, CSV logging, async TTS
+
+📊 GitHub Stats
+
+
+
+
+🌐 Connect With Me
+
+📧 Email: ghulamhasan665@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/gulam-hasan-80751a330
+
+🌐 Portfolio (Coming Soon)
